@@ -29,8 +29,8 @@ public class reader {
             e.printStackTrace();
         }
         // might the causes of diviation with answer 7104
-        String line[] = str.split("[;,?| .!:#\\[\\]*\\\"-]");
-        String line2[] = str2.split("[;,?| .!:#\\[\\]*\\\"-]");
+        String line[] = str.split("[;,?\\| \\.!\\:#\\[\\]\\*\\\"-\\^]");
+        String line2[] = str2.split("[;,?\\| \\.!\\:#\\[\\]\\*\\\"-\\^]");
         for (String temp : line) {
             if(!temp.equals("")){
                 setLinkedList.add(temp);
