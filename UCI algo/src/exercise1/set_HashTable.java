@@ -1,5 +1,7 @@
 package exercise1;
 
+import java.io.IOException;
+
 public class set_HashTable {
     myHashTable table;
     long time=0;
@@ -7,7 +9,7 @@ public class set_HashTable {
     public set_HashTable(int size){
         table=new myHashTable(size);
     }
-    public boolean add(String str){
+    public boolean add(String str) throws IOException {
         int hash=table.hash(str);
         myLinkedList temp=table.list[hash];
         if (temp.contains(str)) {
@@ -18,16 +20,18 @@ public class set_HashTable {
             temp.add(str);
             Long end=System.nanoTime();
             time+=end-start;
+            reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_ht.txt", end-start);
         }
         return true;
     }
-    public boolean contains(String str){
+    public boolean contains(String str) throws IOException {
         long start=System.nanoTime();
         int hash=table.hash(str);
         myLinkedList temp=table.list[hash];
         boolean res=temp.contains(str);
         long end=System.nanoTime();
         searchTime+=end-start;
+        reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_ht.txt", end-start);
         return res;
     }
     public int size(){
@@ -39,7 +43,7 @@ public class set_HashTable {
         }
         return size;
     }
-    public void insertTime(String word){
+    public void insertTime(String word) throws IOException {
 
         if(!contains(word)){
             long start=System.nanoTime();
@@ -50,19 +54,19 @@ public class set_HashTable {
         //return time;
     }
 
-    public static void main(String[] args) {
-        set_HashTable set=new set_HashTable(10);
-        set.add("1");
-        set.add("2");
-        set.add("3");
-        set.add("4");
-        System.out.println(set.contains("1"));
-
-        System.out.println(set.add("1"));
-        System.out.println(set.add("2"));
-        System.out.println(set.add("5"));
-        System.out.println(set.size());
-    }
+//    public static void main(String[] args) {
+//        set_HashTable set=new set_HashTable(10);
+//        set.add("1");
+//        set.add("2");
+//        set.add("3");
+//        set.add("4");
+//        System.out.println(set.contains("1"));
+//
+//        System.out.println(set.add("1"));
+//        System.out.println(set.add("2"));
+//        System.out.println(set.add("5"));
+//        System.out.println(set.size());
+//    }
 }
 class myHashTable{
     int size;

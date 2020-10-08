@@ -16,15 +16,23 @@ public class reader {
         return sb.toString().trim();
     }
 
-    public static void main(String[] args) {
+    public  static void writeToFile(String source, long data) throws IOException {
+        File file=new File(source);
+        BufferedWriter br=new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file,true)));
+        br.write(String.valueOf(data));
+        br.write("\r\n");
+        br.close();
+    }
+
+    public static void main(String[] args) throws IOException {
         String str = null;
         String str2=null;
         set_HashTable setHashTable=new set_HashTable(8);
         set_LinkedList setLinkedList=new set_LinkedList();
         set_BinaryTree setBinaryTree=new set_BinaryTree();
         try {
-            str = readFromFile("E:/pride-and-prejudice.txt").trim();
-            str2= readFromFile("E:/words-shuffled.txt").trim();
+            str = readFromFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\pride-and-prejudice.txt").trim();
+            str2= readFromFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\words-shuffled.txt").trim();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -44,8 +52,8 @@ public class reader {
         int count=0;
         for(String temp:line2){
             if(!temp.equals("")&&!(setLinkedList.contains(temp)
-                    ||setBinaryTree.contains(temp)
-                    ||setHashTable.contains(temp))){
+                    &&setBinaryTree.contains(temp)
+                    &&setHashTable.contains(temp))){
                 count++;
             }
 

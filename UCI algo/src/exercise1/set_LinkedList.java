@@ -1,5 +1,7 @@
 package exercise1;
 
+import java.io.IOException;
+
 public class set_LinkedList {
     myLinkedList list;
     long time=0;
@@ -9,28 +11,30 @@ public class set_LinkedList {
     public  set_LinkedList(){
         list=new myLinkedList();
     }
-    public boolean add(String word){
+    public boolean add(String word) throws IOException {
         if(!list.contains(word)){
             long start=System.nanoTime();
             list.add(word);
             Long end=System.nanoTime();
             time+=end-start;
             //list1.size();
+            reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_ll.txt", end-start);
             return true;
         }
         return false;
     }
-    public boolean contains(String word){
+    public boolean contains(String word) throws IOException {
         long start=System.nanoTime();
         boolean res= list.contains(word);
         long end=System.nanoTime();
         searchTime+=end-start;
+        reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_ll.txt", end-start);
         return res;
     }
     public int  size(){
         return list.size();
     }
-    public void insertTime(String word){
+    public void insertTime(String word) throws IOException {
 
         if(!contains(word)){
             long start=System.nanoTime();
@@ -41,20 +45,20 @@ public class set_LinkedList {
         //return time;
     }
 
-    public static void main(String[] args) {
-        set_LinkedList set=new set_LinkedList();
-        set.add("1");
-        set.add("2");
-        set.add("3");
-        set.add("4");
-        System.out.println(set.contains("5"));
-
-        System.out.println(set.add("1"));
-        System.out.println(set.add("2"));
-        System.out.println(set.add("5"));
-        System.out.println(set.contains("5"));
-        System.out.println(set.size());
-    }
+//    public static void main(String[] args) {
+//        set_LinkedList set=new set_LinkedList();
+//        set.add("1");
+//        set.add("2");
+//        set.add("3");
+//        set.add("4");
+//        System.out.println(set.contains("5"));
+//
+//        System.out.println(set.add("1"));
+//        System.out.println(set.add("2"));
+//        System.out.println(set.add("5"));
+//        System.out.println(set.contains("5"));
+//        System.out.println(set.size());
+//    }
 }
 
 
