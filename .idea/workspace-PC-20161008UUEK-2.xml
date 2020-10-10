@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="533e286d-05fe-406a-9ba3-aab4449906e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UCI algo/src/exercise2/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UCI algo/src/exercise2/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UCI algo/src/exercise2/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UCI algo/src/exercise2/ResReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UCI algo/src/exercise2/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/UCI algo/src/exercise1.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/UCI algo/src/exercise1/reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/set_BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/UCI algo/src/exercise1/set_BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/set_HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/UCI algo/src/exercise1/set_HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/set_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/UCI algo/src/exercise1/set_LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/UCI algo/src/exercise2/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/assignment4_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/add_bt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/add_ht.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/add_ll.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/search_bt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/search_ht.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/search_ll.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_HashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/assignment4_5.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iXqXgPBtob6aGguKH9yqhDik1G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ResReader">
+    <configuration name="ResReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.ResReader" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.reader" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResReader" />
+        <item itemvalue="Application.reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="533e286d-05fe-406a-9ba3-aab4449906e3" name="Default Changelist" comment="" />
+      <created>1602064325798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602064325798</updated>
+      <workItem from="1602064326932" duration="17000" />
+      <workItem from="1602140904599" duration="4333000" />
+      <workItem from="1602158618821" duration="42000" />
+      <workItem from="1602158881940" duration="242000" />
+      <workItem from="1602160049571" duration="18000" />
+      <workItem from="1602160386236" duration="167000" />
+      <workItem from="1602160561887" duration="237000" />
+      <workItem from="1602161250612" duration="36000" />
+      <workItem from="1602161332938" duration="12000" />
+      <workItem from="1602161368402" duration="197000" />
+      <workItem from="1602161599906" duration="1000" />
+      <workItem from="1602161613949" duration="4000" />
+      <workItem from="1602161685020" duration="11000" />
+      <workItem from="1602161730047" duration="862000" />
+      <workItem from="1602162755079" duration="46000" />
+      <workItem from="1602162886935" duration="28000" />
+      <workItem from="1602163107071" duration="8000" />
+      <workItem from="1602163311129" duration="856000" />
+      <workItem from="1602164178635" duration="24000" />
+      <workItem from="1602164291278" duration="1109000" />
+      <workItem from="1602167001164" duration="291000" />
+      <workItem from="1602170470811" duration="50000" />
+      <workItem from="1602207760321" duration="7641000" />
+      <workItem from="1602227563243" duration="522000" />
+      <workItem from="1602232031967" duration="50000" />
+      <workItem from="1602249214898" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602161691190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602161691190" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1602219642457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602219642457" />
+    <state x="531" y="335" key="Registry" timestamp="1602160674917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="335" key="Registry/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602160674917" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602232083141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602212224223" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602232083141" />
+    <state x="721" y="393" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602232071486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="393" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602232071486" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602216973293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602216973293" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UCI algo/src/exercise2/ResReader.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

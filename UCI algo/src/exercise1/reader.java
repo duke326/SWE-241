@@ -3,6 +3,7 @@ package exercise1;
 import java.io.*;
 
 public class reader {
+    //final test
     public static String readFromFile(String source) throws IOException {
         File file = new File(source);
         BufferedReader br = new BufferedReader(new FileReader(file));
@@ -37,9 +38,10 @@ public class reader {
             e.printStackTrace();
         }
         // might the causes of diviation with answer 7104
-        String line[] = str.split("[;,?\\| \\.!\\:#\\[\\]\\*\\\"-\\^]");
-        String line2[] = str2.split("[;,?\\| \\.!\\:#\\[\\]\\*\\\"-\\^]");
-        for (String temp : line) {
+        String line[] = str.split("[ -.:/@]");
+        String line2[] = str2.split("[ -.:/@]");
+        for (String strTemp : line) {
+            String temp=strTemp.replaceAll("[^A-Za-z\\d+]", "");
             if(!temp.equals("")){
                 setLinkedList.add(temp);
                 //setLinkedList.insertTime(temp);
@@ -50,11 +52,13 @@ public class reader {
 
         }
         int count=0;
-        for(String temp:line2){
+        for(String strTemp:line2){
+            String temp=strTemp.replaceAll("[^A-Za-z\\d+]", "");
             if(!temp.equals("")&&!(setLinkedList.contains(temp)
                     &&setBinaryTree.contains(temp)
                     &&setHashTable.contains(temp))){
                 count++;
+                System.out.println(temp);
             }
 
 

@@ -18,7 +18,7 @@ public class set_LinkedList {
             Long end=System.nanoTime();
             time+=end-start;
             //list1.size();
-            reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_ll.txt", end-start);
+           // reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_ll.txt", end-start);
             return true;
         }
         return false;
@@ -28,7 +28,7 @@ public class set_LinkedList {
         boolean res= list.contains(word);
         long end=System.nanoTime();
         searchTime+=end-start;
-        reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_ll.txt", end-start);
+        //reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_ll.txt", end-start);
         return res;
     }
     public int  size(){

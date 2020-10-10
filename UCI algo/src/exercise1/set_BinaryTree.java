@@ -17,7 +17,7 @@ public class set_BinaryTree {
             boolean res=root.add(str);
             long end=System.nanoTime();
             time+=end-start;
-            reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_bt.txt", end-start);
+           // reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_bt.txt", end-start);
             return res;
         }
         return false;
@@ -32,7 +32,7 @@ public class set_BinaryTree {
         boolean res= root.contains(str);
         long end=System.nanoTime();
         searchTime+=end-start;
-        reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_bt.txt", end-start);
+        //reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_bt.txt", end-start);
         return res;
     }
 //    public static void main(String[] args) {

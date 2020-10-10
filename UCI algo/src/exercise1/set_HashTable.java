@@ -20,7 +20,7 @@ public class set_HashTable {
             temp.add(str);
             Long end=System.nanoTime();
             time+=end-start;
-            reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_ht.txt", end-start);
+            //reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\add_ht.txt", end-start);
         }
         return true;
     }
@@ -31,7 +31,7 @@ public class set_HashTable {
         boolean res=temp.contains(str);
         long end=System.nanoTime();
         searchTime+=end-start;
-        reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_ht.txt", end-start);
+        //reader.writeToFile("E:\\java project\\UCI algo\\UCI algo\\src\\exercise1\\search_ht.txt", end-start);
         return res;
     }
     public int size(){
