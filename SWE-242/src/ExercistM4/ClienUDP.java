@@ -9,7 +9,7 @@ public class ClienUDP {
     public static void main(String[] args) throws IOException {
         InetAddress ip=InetAddress.getByName("127.0.0.1");
         DatagramSocket ds=new DatagramSocket(10001);
-
+        //distinguish between the "index" and "get "
         String s=args[0];
         DatagramPacket dp=new DatagramPacket(s.getBytes(),s.getBytes().length,InetAddress.getByName("127.0.0.1"),10000 );
         ds.send(dp);
@@ -41,11 +41,13 @@ public class ClienUDP {
             }
         }
         else if (s.equals("get")){
+            //receive the "ok" signal
             byte [] isExist=new byte[1024];
             dp=new DatagramPacket(isExist, isExist.length);
             ds.receive(dp);
             String status=new String(dp.getData(),0,dp.getLength());
             System.out.println(status);
+
             if(status.equals("OK")){
                 while(!lastMessageFlag){
                     byte[] message=new byte[1024];
@@ -62,12 +64,12 @@ public class ClienUDP {
                     }
                     if(sequenceNum==lastSequenceNum+1){
                         lastSequenceNum=sequenceNum;
-                        for(int i=3;i<1024;i++){
+                        for(int i=3;i< received.getLength();i++){
                             //System.out.println(message[i]);
                             fileArray[i-3]=message[i];
                         }
-
-                        System.out.println(new String(fileArray,0, fileArray.length));
+                        //System.out.println(received.getLength());
+                        System.out.print(new String(fileArray,0, fileArray.length).trim());
                         sendAck(lastSequenceNum,ds,ip,10000);
                     }
                     else{
@@ -88,13 +90,15 @@ public class ClienUDP {
         ds.close();
     }
 
+    //send the ack signal
     public static void sendAck( int lastSequenceNumber, DatagramSocket ds, InetAddress ip, int port) throws IOException {
         byte[] ack=new byte[2];
+        //ack packet contains the series number of received package
         ack[0]=(byte)(lastSequenceNumber>>8);
         ack[1]=(byte)lastSequenceNumber;
         DatagramPacket dp=new DatagramPacket(ack, ack.length,ip,port);
         ds.send(dp);
-        System.out.println("ack send");
+        //System.out.println("ack send");
 
 
     }

@@ -20,113 +20,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="533e286d-05fe-406a-9ba3-aab4449906e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SWE-241/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise3/AListToIMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise3/AMatrixToAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise3/Exercise 3 Analysis.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise3/ImatrixToAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise3/MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise4/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise4/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-241/src/exercise4/MainMethod1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/SWE-242.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM2/ExerciseM2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ClienUDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerUDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/SWE-244.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise1/MultiThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/CarWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/CarWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/TrafficController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_1/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_1/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_2/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_2/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/HWDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/HighLevelDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/JDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/JDisplay2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_5/BankAccounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_5/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/WebServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/file.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/FrequencyCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/anonymit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/cDc-0200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/crossbow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/gems.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/stop_words" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/anonymit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/cDc-0200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/crossbow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/gems.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/stop_words" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/tf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/bluecar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/bridge.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/bridge1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/redcar.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/UCI algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/UCI algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/myBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/myBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/myHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/myHashTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/myLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/myLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/myListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/myListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/myTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/myTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/reader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/set_BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/set_BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/set_HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/set_HashTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise1/set_LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise1/set_LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise2/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise2/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/out/production/UCI algo/exercise2/assignment4_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/out/production/UCI algo/exercise2/assignment4_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/.idea/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/UCI algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/UCI algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/EXERCISE 1 report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/EXERCISE 1 report.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/Exercise 1 analysis.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/Exercise 1 analysis.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/pride-and-prejudice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/set_BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/set_BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/set_HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/set_HashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/set_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/set_LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise1/words-shuffled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise1/words-shuffled.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/Exercise 1 analysis.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/Exercise 2 analysis.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/Exercise 2 report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/Exercise 2 report.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/ResReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/ResReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/heapsort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/heapsort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/insertionsort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/insertionsort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/mergesort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/mergesort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/pride-and-prejudice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/quicksort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/quicksort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCI algo/src/exercise2/selectionsort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-241/src/exercise2/selectionsort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UCI algo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/EXERCISE 1 report.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/Exercise 1 analysis.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myHashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/pride-and-prejudice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_HashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/words-shuffled.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/ResReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/heapsort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/insertionsort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/mergesort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/pride-and-prejudice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/quicksort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/selectionsort.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/SWE-242.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/SWE-242.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM2/ExerciseM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM2/ExerciseM2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExercistM4.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ClienUDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ClienUDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerUDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerUDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2/ExerciseM2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2/ExerciseM2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ClienUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ClienUDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ServerUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ServerUDP.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +117,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="8c52f46a-d3b7-43d4-bacf-b0384a98da20" />
   <component name="ProjectId" id="1iXqXgPBtob6aGguKH9yqhDik1G" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,7 +131,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SWE-244/src/Exercise_5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -176,19 +145,31 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise4_1" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src" />
       <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExerciseM3" />
       <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\Exercise1" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercise3_4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise_5" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExerciseM3" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExercistM4" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExerciseM2" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise4_2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main3">
+  <component name="RunManager" selected="Application.FrequencyCount">
     <configuration name="ClienUDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercistM4.ClienUDP" />
       <module name="SWE-242" />
-      <option name="PROGRAM_PARAMETERS" value="get 1.txt" />
+      <option name="PROGRAM_PARAMETERS" value="get 10.txt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExercistM4.*" />
@@ -199,12 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise1.Exercise1" />
-      <module name="SWE-244" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseM3.Client" />
+      <module name="SWE-242" />
+      <option name="PROGRAM_PARAMETERS" value="get 2.txt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise1.*" />
+          <option name="PATTERN" value="ExerciseM3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise2_1.Main1" />
+    <configuration name="FrequencyCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_2.FrequencyCount" />
       <module name="SWE-244" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise2_1.*" />
+          <option name="PATTERN" value="Exercise4_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,25 +207,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise2_1.Main2" />
-      <module name="SWE-244" />
+    <configuration name="ServerUDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercistM4.ServerUDP" />
+      <module name="SWE-242" />
+      <option name="PROGRAM_PARAMETERS" value="ServerFileFolder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWE-242/src/ExercistM4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise2_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise2_1.Main3" />
-      <module name="SWE-244" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise2_1.*" />
+          <option name="PATTERN" value="ExerciseM3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,20 +233,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SWE-244" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWE-244/src/Exercise_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWE-244/src/Exercise_5/tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Application.ServerUDP" />
+      <item itemvalue="Application.Client" />
       <item itemvalue="Application.ClienUDP" />
-      <item itemvalue="Application.Exercise1" />
-      <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.FrequencyCount" />
+      <item itemvalue="Python.tf" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.FrequencyCount" />
+        <item itemvalue="Python.tf" />
         <item itemvalue="Application.ClienUDP" />
+        <item itemvalue="Application.ServerUDP" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -342,6 +335,25 @@
       <workItem from="1602986353429" duration="134000" />
       <workItem from="1602987565698" duration="6266000" />
       <workItem from="1602994522744" duration="11000" />
+      <workItem from="1602994734657" duration="7201000" />
+      <workItem from="1603005475018" duration="103000" />
+      <workItem from="1603073602876" duration="7089000" />
+      <workItem from="1603083217147" duration="94000" />
+      <workItem from="1603162011131" duration="6112000" />
+      <workItem from="1603181288588" duration="216000" />
+      <workItem from="1603181545091" duration="144000" />
+      <workItem from="1603247233026" duration="4794000" />
+      <workItem from="1603255929414" duration="3336000" />
+      <workItem from="1603259415595" duration="2340000" />
+      <workItem from="1603264854900" duration="206000" />
+      <workItem from="1603272122372" duration="12489000" />
+      <workItem from="1603330793714" duration="3081000" />
+      <workItem from="1603337015955" duration="21000" />
+      <workItem from="1603337047730" duration="297000" />
+      <workItem from="1603339254195" duration="47000" />
+      <workItem from="1603344520754" duration="155000" />
+      <workItem from="1603419656828" duration="1535000" />
+      <workItem from="1603509562973" duration="711000" />
     </task>
     <servers />
   </component>
@@ -361,58 +373,71 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1602902662045">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1603337315774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602902662045" />
-    <state x="285" y="75" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602744503838">
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603337315774" />
+    <state x="572" y="54" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603293607879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="285" y="75" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602744503838" />
+    <state x="572" y="54" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603293607879" />
     <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602295612537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602295612537" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602488237198">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="612" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1603259775694">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="612" y="178" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603259775694" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602488237198" />
-    <state x="574" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602987824976">
+    <state x="847" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603275977774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602987824976" />
-    <state x="739" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602987825861">
+    <state x="847" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603275977774" />
+    <state x="574" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603164849803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602987825861" />
+    <state x="574" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603164849803" />
+    <state x="736" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603292861122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603292861122" />
+    <state x="739" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1603164850889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603164850889" />
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1602657583147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602657583147" />
-    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1602468370228">
+    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1603276205768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602161691190" />
-    <state x="651" y="169" key="FileChooserDialogImpl/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602468370228" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1602994391389">
+    <state x="651" y="169" key="FileChooserDialogImpl/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603276205768" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1603422629439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602994391389" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854287" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1602994391389">
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1603422629439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602994391389" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854287" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1602994391389">
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1603422629439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602994391389" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854272" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1602994391389">
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1603422629439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602994391389" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854287" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602662216016">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -434,15 +459,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="335" key="Registry/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602160674917" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1602745394964">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="369" y="114" key="SettingsEditor" timestamp="1603181615768">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="369" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603181615768" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602745394964" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602232083141" />
     <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602416972055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602416972055" />
+    <state x="662" y="118" width="596" height="804" key="find.popup" timestamp="1603076767871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="118" width="596" height="804" key="find.popup/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603076767871" />
     <state x="334" y="130" key="new project wizard" timestamp="1602902638730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -469,5 +499,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

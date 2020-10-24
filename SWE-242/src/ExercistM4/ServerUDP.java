@@ -44,6 +44,7 @@ public class ServerUDP {
                 ds.send(dp);
             }
             else if (data.equals("get")){
+                //receive the book name
                 byte[] temp=new byte[1024];
                 dp=new DatagramPacket(temp,temp.length);
                 ds.receive(dp);
@@ -52,14 +53,20 @@ public class ServerUDP {
                 File[] fileList=file.listFiles();
                 for(int i=0;i< fileList.length;i++){//i: the file in the fileList
                     if(fileList[i].getName().equals(bookName)){
+                        //send ok
                         dp=new DatagramPacket("OK".getBytes(),"OK".getBytes().length,ip,10001 );
                         ds.send(dp);
+                        //read the file
                         InputStream is=new FileInputStream(fileList[i].getAbsolutePath());
+                        //create a big array put it into stream
                         byte []fileArray=new byte[(int)fileList[i].length()];
                         is.read(fileArray);
+
                         int sequenceNum=0;
+                        //ack package
                         int ackNum=0;
                         boolean lastMessageFlag=false;
+                        //prepare for the singal
                         for(int j=0;j< fileArray.length;j+=1021){// j : the length of the original fileArray input from local file
                             sequenceNum+=1;
                             byte message[]=new byte[1024];
@@ -73,17 +80,21 @@ public class ServerUDP {
                                 lastMessageFlag=false;
                                 message[2]=(byte)(0);
                             }
+                            int arrayLength=0;
+                            //copy from the original array
                             if(!lastMessageFlag){
                                 for(int k=0;k<=1020;k++){//k: write into the message array send to the datagram
                                  message[k+3]=fileArray[k+j];
+                                    arrayLength++;
                                 }
                             }
                             else if(lastMessageFlag){
                                 for(int k=0;k<fileArray.length-j;k++){
                                     message[k+3]=fileArray[k+j];
+                                    arrayLength++;
                                 }
                             }
-                            DatagramPacket sendMessage=new DatagramPacket(message, message.length,ip,10001);
+                            DatagramPacket sendMessage=new DatagramPacket(message, arrayLength+3,ip,10001);
                             ds.send(sendMessage);
                             System.out.println("Sent: Sequence number = " + sequenceNum + ", Flag = " + lastMessageFlag);
                             boolean ackReceiveCorrect=false;
@@ -100,12 +111,14 @@ public class ServerUDP {
                                     System.out.println("time out");
                                     ackPacketReceived=false;
                                 }
+                                //if right, then finish
                                 if((ackNum==sequenceNum)&&ackPacketReceived){
                                     ackReceiveCorrect=true;
                                     System.out.println("received correct");
                                     break;
                                 }
                                 else{
+                                    //else the system will send it again
                                     ds.send(sendMessage);
                                     System.out.println("resending"+sequenceNum);
                                 }

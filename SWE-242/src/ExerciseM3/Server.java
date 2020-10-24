@@ -22,6 +22,8 @@ public class Server {
             String str;
             OutputStream ow=accept.getOutputStream();
             BufferedWriter bw=new BufferedWriter(new OutputStreamWriter(ow));
+
+            //write the data back to the socket
             while((str=br.readLine())!=null){
                 if(str.equals("index")){
                     //System.out.println(str);
@@ -51,6 +53,7 @@ public class Server {
                             }
                             break;
                         }
+                        //cannt find the file
                         else if(i==allFile.length-1&&!allFile[i].getName().equals(fileName)){
                             bw.write("Error");
                             bw.newLine();
