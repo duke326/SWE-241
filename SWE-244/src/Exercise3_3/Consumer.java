@@ -3,6 +3,7 @@ package Exercise3_3;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class Consumer implements Runnable {
+	//use linkedBlockingQueue
     private LinkedBlockingQueue<Message> queue;
     private int id;
 

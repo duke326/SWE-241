@@ -15,6 +15,7 @@ public class BankAccounts {
                                      Account toAccount,
                                      DollarAmount amount)
             throws InsufficientFundsException {
+		//should determined the lock of which account shoud be accquired first
     	if(fromAccount.hashCode()<toAccount.hashCode()){
 			synchronized (fromAccount) {
 				synchronized (toAccount) {
@@ -160,6 +161,7 @@ public class BankAccounts {
 
 	// One teller one way
 	Teller t1 = new Teller(0, acc1, acc2);
+
 	// Two tellers the other way
 	Teller t2 = new Teller(1, acc2, acc1);
 	Teller t3 = new Teller(2, acc2, acc1);

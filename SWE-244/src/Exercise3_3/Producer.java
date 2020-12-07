@@ -23,6 +23,7 @@ public class Producer implements Runnable {
 	    try {
 		Thread.sleep(n);
 		Message msg = new Message("message-" + n);
+
 		queue.put(msg); // Put the message in the queue
 		count++;
 		RandomUtils.print("Produced " + msg.get(), id);

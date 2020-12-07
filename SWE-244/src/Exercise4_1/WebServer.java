@@ -40,6 +40,7 @@ public class WebServer {
     }
 	
     public static void main(String[] args) {
+    	//create thread pool to manage the thread efficiently
 		ExecutorService es = Executors.newCachedThreadPool();
 		try {
 	    ServerSocket serverConnect = new ServerSocket(PORT);
@@ -55,8 +56,9 @@ public class WebServer {
 		Runnable runnable=new Runnable() {
 			@Override
 			public void run() {
-				myServer.handleRequest();
 				System.out.println("current thread is "+Thread.currentThread().getId());
+				myServer.handleRequest();
+
 			}
 		};
 
@@ -64,8 +66,9 @@ public class WebServer {
 	    }
 
 	} catch (IOException e) {
-	    System.err.println("Server Connection error : " + e.getMessage());
+
 	    es.shutdown();
+	    System.err.println("Server Connection error : " + e.getMessage());
 	}
     }
 

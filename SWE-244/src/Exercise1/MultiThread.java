@@ -1,5 +1,8 @@
 package Exercise1;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class MultiThread extends Thread{
 
     @Override
@@ -8,7 +11,8 @@ public class MultiThread extends Thread{
             if(Thread.currentThread().isInterrupted()){
                 break;
             }
-            System.out.println("Hello World! I'm thread "+Thread.currentThread().getId()+ " The time is "+System.currentTimeMillis());
+            SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+            System.out.println("Hello World! I'm thread "+Thread.currentThread().getId()+ " The time is "+df.format(new Date()));
             try {
                 Thread.sleep(2000);
             } catch (InterruptedException e) {

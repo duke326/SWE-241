@@ -40,6 +40,9 @@ public class Main3 {
 
     public static void main(String [] args) {
 	final HighLevelDisplay d = new JDisplay2();
+
+	
+	//the number of thread that can access the resources is 1
 	se=new Semaphore(1);
 
 	new Thread () {

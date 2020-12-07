@@ -12,7 +12,7 @@ word_sum=[]
 
 def countWord(filename):
     global word_sum
-    print("reading file "+filename)
+    #print("reading file "+filename)
     words = re.findall('\w{3,}', open(filename).read().lower())
     word_sum += [w for w in words if w not in stopwords]
 

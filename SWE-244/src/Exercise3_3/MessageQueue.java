@@ -14,6 +14,7 @@ public class MessageQueue {
 	p1=new Producer[producersNum];
 
 	for(int i=0;i<consumersNum;i++){
+
 		c1[i]=new Consumer(queue, n_ids++);
 		new Thread(c1[i]).start();
 	}

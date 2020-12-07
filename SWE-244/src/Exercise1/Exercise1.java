@@ -1,7 +1,5 @@
 package Exercise1;
 
-import java.lang.management.ManagementFactory;
-import java.lang.management.ThreadMXBean;
 import java.util.Scanner;
 
 public class Exercise1 {
@@ -19,10 +17,11 @@ public class Exercise1 {
                 thread.start();
             }
             else if (chooice.startsWith("b")){
-                ThreadMXBean mxBean= ManagementFactory.getThreadMXBean();
+                //ThreadMXBean mxBean= ManagementFactory.getThreadMXBean();
 
                 int id=Integer.valueOf(chooice.substring(2));
                 Thread s=findThread(id);
+                //interrupt is safe than stop method, it give a interrupt singnal to the threat
                 s.interrupt();
             }
             else if (chooice.equals("c")){

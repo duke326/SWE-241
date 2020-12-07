@@ -20,80 +20,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="533e286d-05fe-406a-9ba3-aab4449906e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/ServerFileFolder/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerFileFolder/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/CarWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/CarWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/TrafficController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_1/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_1/RandomUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_2/RandomUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_2/VectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/MessageQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/RandomUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/HWDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/HighLevelDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/JDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/JDisplay2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_5/BankAccounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_5/RandomUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/WebServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/file.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/FrequencyCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/anonymit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/cDc-0200.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/crossbow.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/gems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/stop_words" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/anonymit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/cDc-0200.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/crossbow.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/gems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/stop_words" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/tf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/bluecar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/bridge.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/bridge1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWE-244/src/image/redcar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddCourseUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddStudentUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CheckSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnrollUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryCourses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/SWE-242.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/SWE-242.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM2.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM2/ExerciseM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM2/ExerciseM2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExerciseM3/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExercistM4.zip" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ClienUDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ClienUDP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerUDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-242/src/ExercistM4/ServerUDP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2/ExerciseM2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2/ExerciseM2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ClienUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ClienUDP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ServerUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ServerUDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise1/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise1/MultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise1/MultiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/TrafficController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise2_2/TrafficController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/MessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_3/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_4/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise3_5/BankAccounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise3_5/BankAccounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/WebServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_1/WebServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/FrequencyCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise4_2/FrequencyCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWE-244/src/Exercise_5/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-244/src/Exercise_5/tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise1/Exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise1/Exercise1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise1/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise1/MultiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/TrafficController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/TrafficController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/MessageQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/MessageQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$DollarAmount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$DollarAmount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$InsufficientFundsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$InsufficientFundsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$Teller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$Teller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_1/WebServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_1/WebServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_1/WebServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_1/WebServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise_5/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/Exercise_5/tf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/src/Exercise_5/tf.py" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SWE-244/src/Exercise_5/tf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +100,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SWE-244/src/Exercise_5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql-connector-java-8.0.22" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -141,20 +111,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise4_1" />
-      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src" />
-      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExerciseM3" />
-      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\Exercise1" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Exercise3_4" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise_5" />
@@ -163,15 +124,24 @@
       <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExerciseM2" />
       <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise4_2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Exercise3_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src\Exercise4_1" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-244\src" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\ExerciseM3" />
+      <recent name="E:\OneDrive - personalmicrosoftsoftware.uci.edu\UCI algo\SWE-242\src\Exercise1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FrequencyCount">
-    <configuration name="ClienUDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercistM4.ClienUDP" />
-      <module name="SWE-242" />
-      <option name="PROGRAM_PARAMETERS" value="get 10.txt" />
+  <component name="RunManager" selected="Application.Exercise5_1">
+    <configuration name="BankAccounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise3_5.BankAccounts" />
+      <module name="SWE-244" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExercistM4.*" />
+          <option name="PATTERN" value="Exercise3_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,16 +149,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseM3.Client" />
-      <module name="SWE-242" />
-      <option name="PROGRAM_PARAMETERS" value="get 2.txt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerciseM3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Exercise5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5_1" />
+      <module name="IdeaProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,14 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerUDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercistM4.ServerUDP" />
-      <module name="SWE-242" />
-      <option name="PROGRAM_PARAMETERS" value="ServerFileFolder" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWE-242/src/ExercistM4" />
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise3_4.Main3" />
+      <module name="SWE-244" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseM3.*" />
+          <option name="PATTERN" value="Exercise3_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,53 +182,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_1.WebServer" />
+      <module name="SWE-244" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise4_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SWE-244" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWE-244/src/Exercise_5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWE-244/src/Exercise_5/tf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Application.ServerUDP" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.ClienUDP" />
+      <item itemvalue="Application.Main3 (1)" />
+      <item itemvalue="Application.BankAccounts" />
+      <item itemvalue="Application.WebServer" />
       <item itemvalue="Application.FrequencyCount" />
-      <item itemvalue="Python.tf" />
+      <item itemvalue="Application.Exercise5_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise5_1" />
         <item itemvalue="Application.FrequencyCount" />
-        <item itemvalue="Python.tf" />
-        <item itemvalue="Application.ClienUDP" />
-        <item itemvalue="Application.ServerUDP" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.WebServer" />
+        <item itemvalue="Application.BankAccounts" />
+        <item itemvalue="Application.Main3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +293,33 @@
       <workItem from="1603339254195" duration="47000" />
       <workItem from="1603344520754" duration="155000" />
       <workItem from="1603419656828" duration="1535000" />
+      <workItem from="1603509562973" duration="711000" />
+      <workItem from="1603699769570" duration="6035000" />
+      <workItem from="1603707156534" duration="32000" />
+      <workItem from="1603728491070" duration="4538000" />
+      <workItem from="1603881973657" duration="467000" />
+      <workItem from="1603966747376" duration="153000" />
+      <workItem from="1603968034120" duration="241000" />
+      <workItem from="1604151428925" duration="288000" />
+      <workItem from="1604203093908" duration="7617000" />
+      <workItem from="1604217533841" duration="89000" />
+      <workItem from="1604285850578" duration="225000" />
+      <workItem from="1604286101163" duration="7829000" />
+      <workItem from="1604322552903" duration="229000" />
+      <workItem from="1604327960113" duration="11000" />
+      <workItem from="1604385143517" duration="6000" />
+      <workItem from="1604544846518" duration="708000" />
+      <workItem from="1604564837904" duration="3733000" />
+      <workItem from="1605184034616" duration="13000" />
+      <workItem from="1605326430696" duration="2000" />
+      <workItem from="1605594912201" duration="50000" />
+      <workItem from="1605768631940" duration="1000" />
+      <workItem from="1605853475453" duration="46000" />
+      <workItem from="1605854153731" duration="28000" />
+      <workItem from="1605854215902" duration="716000" />
+      <workItem from="1606097351341" duration="2000" />
+      <workItem from="1606705564960" duration="43000" />
+      <workItem from="1606913041324" duration="57000" />
     </task>
     <servers />
   </component>
@@ -375,10 +343,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603337315774" />
-    <state x="572" y="54" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603293607879">
+    <state x="176" y="75" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604151501451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="54" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603293607879" />
+    <state x="176" y="75" width="1092" height="965" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603732599859" />
+    <state x="176" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604151501451" />
     <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602295612537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -408,35 +377,40 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602657583147" />
-    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1603276205768">
+    <state x="758" y="474" key="DetectedRootsChooserDialog" timestamp="1604208397779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="474" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604208397779" />
+    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1604208396647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602161691190" />
     <state x="651" y="169" key="FileChooserDialogImpl/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603276205768" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1603422629439">
+    <state x="651" y="169" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604208396647" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1604591570031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854287" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1603422629439">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1604591570031" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604298756273" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1604591570031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854287" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1603422629439">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1604591570031" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604298756273" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1604591570031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854272" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1603422629439">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1604591570031" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604298756273" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1604591570031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603261775027" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1603422629439" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602664854287" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1604591570031" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604298756273" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602662216016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -457,16 +431,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="335" key="Registry/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602160674917" />
-    <state x="369" y="114" key="SettingsEditor" timestamp="1603181615768">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604322783347">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="369" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603181615768" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602745394964" />
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602232083141" />
-    <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602416972055">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604322783347" />
+    <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604208254192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-768.-288.768.1326@0.0.1920.1040" timestamp="1602416972055" />
+    <state x="502" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1604208254192" />
     <state x="662" y="118" width="596" height="804" key="find.popup" timestamp="1603076767871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -494,6 +469,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="3" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

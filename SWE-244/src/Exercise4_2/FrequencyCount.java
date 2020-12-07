@@ -107,6 +107,7 @@ public class FrequencyCount {
 
 	loadStopWords();
 	Counter c = new Counter();
+	//create thread pool
 		ExecutorService executorService = Executors.newCachedThreadPool();
 
 		long start = System.nanoTime();
