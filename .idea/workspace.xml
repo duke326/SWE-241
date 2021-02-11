@@ -29,12 +29,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="533e286d-05fe-406a-9ba3-aab4449906e3" name="Default Changelist" comment="finished">
-      <change beforePath="$PROJECT_DIR$/SWE-262/src/Exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-262/src/Exercise1/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-262/src/Exercise2/FIVE.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-262/src/Exercise2/FIVE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-262/src/Exercise2/FOUR.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-262/src/Exercise2/FOUR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-262/src/Exercise2/SIX.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-262/src/Exercise2/SIX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-262/src/Thirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-262/src/Thirteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWE-262/src/Twelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/SWE-262/src/Twelve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/AddCourseUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/AddCourseUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/AddStudentUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/AddStudentUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/CheckSchedule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/CheckSchedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/EnrollUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/EnrollUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Exercise5_1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Exercise5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/QueryCourses$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/QueryCourses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/QueryResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/QueryStudent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/QueryStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myHashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/myTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise1/set_LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/ResReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise2/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise3/AListToIMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise3/AMatrixToAList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise3/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise3/ImatrixToAList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise3/MainMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise4/BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise4/DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/exercise4/MainMethod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/murach/ap/DBTestApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM2/ExerciseM2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExerciseM3/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ClienUDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-242/ExercistM4/ServerUDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise1/Exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise1/MultiThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/CharDisplay$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/CharDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/HWDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/HighLevelDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/JDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/JDisplay2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/Main3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/Main3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_1/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/CarWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/CarWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/CarWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/CarWorld$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/CarWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise2_2/TrafficController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_1/HashMapTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_1/HashMapTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_1/HashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_1/RandomUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_2/RandomUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_2/VectorTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_2/VectorTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_2/VectorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/MessageQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_3/RandomUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/CharDisplay$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/CharDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/HWDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/HighLevelDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/JDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/JDisplay2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_4/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$DollarAmount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$InsufficientFundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts$Teller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/BankAccounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise3_5/RandomUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_1/WebServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_1/WebServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount$Counter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount$Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWE-244/Exercise4_2/FrequencyCount.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,6 +436,7 @@
       <workItem from="1612753912542" duration="219000" />
       <workItem from="1613021542966" duration="60000" />
       <workItem from="1613021650506" duration="224000" />
+      <workItem from="1613021896876" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1613021755264</created>
@@ -337,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613021755264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish">
+      <created>1613021966823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613021966823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +484,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1610212782657">

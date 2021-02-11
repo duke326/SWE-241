@@ -79,17 +79,17 @@ public class UI extends JFrame {
 
 
 
-        // 加入到JFrame
-//        this.add(jp1);
-//        this.add(jp2);
-//        this.add(jp3);
-//        this.add(jp4);
-//        this.add(jp5);
-//        this.add(jp6);
-//
-//        this.setSize(550, 250);
-//        this.setTitle("登录");
-//        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//        this.setVisible(true);
+         加入到JFrame
+        this.add(jp1);
+        this.add(jp2);
+        this.add(jp3);
+        this.add(jp4);
+        this.add(jp5);
+        this.add(jp6);
+
+        this.setSize(550, 250);
+        this.setTitle("登录");
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setVisible(true);
     }
 }
