@@ -1,5 +1,3 @@
-package Exercise3;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -7,103 +5,149 @@ import java.io.IOException;
 import java.util.*;
 
 public class Twelve {
+    static HashMap<String , Object> wordLoader=new HashMap<>(){
+        {
+            put("data", new ArrayList<>());
+            put("init", new WordLoader());
+            put("acticeWordLoader",(Action)(obj,arguments)->(wordLoader.get("data")));
+            put("print", new Print());
+        }
+
+    };
+    static Map<String, Object> stopWordLoader=new HashMap<>(){
+        {
+            put("data", new HashSet());
+            put("init", new StopWordLoader());
+            put("acticeStopWordLoader",(Action)(map, arguments)->(stopWordLoader.get("data")));
+
+        }
+    };
+
+
     public static void main(String[] args) throws IOException {
-        WordLoader wordLoader=new WordLoader();
-        StopWordLoader stopWordLoader=new StopWordLoader();
-        FrequentManager frequentManager=new FrequentManager();
-        stopWordLoader.addStopWords();
-        wordLoader.addWord(stopWordLoader.getStopWords(),args[0]);
-        frequentManager.sort(wordLoader.getWordList());
-
-        for(int i=0;i<25;i++){
-            System.out.println(frequentManager.getFrequent().get(i).getKey()+" "+frequentManager.getFrequent().get(i).getValue());
+        Map<String,Integer> map=new HashMap<>();
+        ((Action)wordLoader.get("init")).execute(wordLoader,new String[]{args[0]});
+        List<String> words=(List<String>)((Action)wordLoader.get("acticeWordLoader")).execute(wordLoader, null);
+        //new Object[]{args[0]}
+        for(String str:words){
+            map.put(str, map.getOrDefault(str,0)+1);
         }
+        Map<String, Object> newMap=new HashMap<>();
+        for(Map.Entry<String, Integer> entry : map.entrySet()){
+
+            newMap.put(entry.getKey(), (Object)entry.getValue().toString());
+        }
+        ((Action)wordLoader.get("print")).execute(newMap,null);
+
     }
 
+    interface Action{
+        Object execute(Map<String, Object> obj, Object arguments[]);
 
-
-}
-class WordLoader{
-
-    private Map<String, Integer> wordList;
-
-    String readFile(String filePath) throws IOException {
-        File file = new File(filePath);
-        BufferedReader br = new BufferedReader(new FileReader(file));
-        String str = null;
-        StringBuilder sb = new StringBuilder();
-        while ((str = br.readLine()) != null) {
-            String temp = str.toLowerCase();
-            sb.append(temp + " ");
-        }
-        return sb.toString().trim();
     }
-    void addWord(Set<String> stopWords, String path) throws IOException {
-        wordList=new HashMap<>();
-        String content = readFile(path);
-        String[] words = content.split("[ ,!.@#$%&*?\\\"'-]");
-        for (int i = 0; i < words.length; i++) {//add to the map
-            String temp = words[i].replaceAll("[^A-Za-z\\d+]", "");
-            if (!stopWords.contains(temp) && temp.length()>=2 && !temp.equals("s")) {
-                wordList.put(temp, wordList.getOrDefault(temp, 0) + 1);
+    static class Print implements Action{
+
+        @Override
+        public Object execute(Map<String, Object> map, Object[] arguments) {
+            Map<String, Integer> newMap=new HashMap<>();
+            for(Map.Entry<String, Object> entry : map.entrySet()){
+                newMap.put(entry.getKey(), Integer.valueOf(entry.getValue().toString()));
             }
+            List<Map.Entry<String,Integer>> list=new ArrayList<>(newMap.entrySet());
+            Collections.sort(list, (a, b) -> (b.getValue() - a.getValue()));
+            for(int i=0;i<25;i++){
+                System.out.println(list.get(i).getKey()+" "+list.get(i).getValue());
+            }
+            return null;
         }
     }
 
-    public Map<String, Integer> getWordList() {
-        return wordList;
-    }
+    static class WordLoader implements  Action{
 
-    public void setWordList(Map<String, Integer> wordList) {
-        this.wordList = wordList;
-    }
-}
+        private Map<String, Integer> wordList;
 
-
-class StopWordLoader{
-    private Set<String> stopWords;
-
-    String readFile(String filePath) throws IOException {
-        File file = new File(filePath);
-        BufferedReader br = new BufferedReader(new FileReader(file));
-        String str = null;
-        StringBuilder sb = new StringBuilder();
-        while ((str = br.readLine()) != null) {
-            String temp = str.toLowerCase();
-            sb.append(temp + " ");
+        String readFile(String filePath) throws IOException {
+            File file = new File(filePath);
+            BufferedReader br = new BufferedReader(new FileReader(file));
+            String str = null;
+            StringBuilder sb = new StringBuilder();
+            while ((str = br.readLine()) != null) {
+                String temp = str.toLowerCase();
+                sb.append(temp + " ");
+            }
+            return sb.toString().trim();
         }
-        return sb.toString().trim();
-    }
 
-    void addStopWords() throws IOException {
-        Set<String> set = new HashSet<>();
-        String[] stopWords = readFile("../stop-words.txt").split(",");
-        for (String str : stopWords) {
-            set.add(str);
+
+        public Map<String, Integer> getWordList() {
+            return wordList;
         }
-        setStopWords(set);
+
+        public void setWordList(Map<String, Integer> wordList) {
+            this.wordList = wordList;
+        }
+
+        @Override
+        public Object execute(Map<String, Object> obj, Object[] arguments) {
+            String path=arguments[0].toString();
+            List<String> res=(List<String>) obj.get("data");
+            ((Action)stopWordLoader.get("init")).execute(stopWordLoader,null);
+
+            String content = null;
+            try {
+                content = readFile(path);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            String[] words = content.split("[ ,!.@#$%&*?\\\"'-]");
+
+            Set<String> stopWords=(Set<String>) ((Action)stopWordLoader.get("acticeStopWordLoader")).execute(stopWordLoader, null);
+            for (int i = 0; i < words.length; i++) {//add to the map
+                String temp = words[i].replaceAll("[^A-Za-z\\d+]", "");
+                if (!stopWords.contains(temp) && temp.length()>=2 && !temp.equals("s")) {
+                    res.add(temp);
+                }
+            }
+            System.out.println(res.size());
+
+            return null;
+        }
     }
 
-    public Set<String> getStopWords() {
-        return stopWords;
-    }
 
-    public void setStopWords(Set<String> stopWords) {
-        this.stopWords = stopWords;
+    static class StopWordLoader implements Action{
+        private Set<String> stopWords;
+
+        String readFile(String filePath) throws IOException {
+            File file = new File(filePath);
+            BufferedReader br = new BufferedReader(new FileReader(file));
+            String str = null;
+            StringBuilder sb = new StringBuilder();
+            while ((str = br.readLine()) != null) {
+                String temp = str.toLowerCase();
+                sb.append(temp + " ");
+            }
+            return sb.toString().trim();
+        }
+
+        @Override
+        public Object execute(Map<String, Object> obj, Object[] arguments) {
+
+                Set<String> set= (Set<String>) obj.get("data");
+            String[] stopWords = new String[0];
+            try {
+                stopWords = readFile("SWE-262/src/stop-words.txt").split(",");
+                for (String str : stopWords) {
+                    set.add(str);
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return null;
+        }
+
+
     }
 }
-class FrequentManager{
-    private List<Map.Entry<String ,Integer>> frequent;
-    void sort(Map<String ,Integer> map){
-        frequent=new ArrayList<>(map.entrySet());
-        Collections.sort(frequent, (a,b)->(b.getValue()-a.getValue()));
-    }
 
-    public List<Map.Entry<String, Integer>> getFrequent() {
-        return frequent;
-    }
-
-    public void setFrequent(List<Map.Entry<String, Integer>> frequent) {
-        this.frequent = frequent;
-    }
-}

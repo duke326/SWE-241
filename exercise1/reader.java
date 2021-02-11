@@ -28,9 +28,9 @@ public class reader {
     public static void main(String[] args) throws IOException {
         String str = null;
         String str2=null;
-        set_HashTable setHashTable=new set_HashTable(8);
-        set_LinkedList setLinkedList=new set_LinkedList();
-        set_BinaryTree setBinaryTree=new set_BinaryTree();
+        exercise1.set_HashTable setHashTable=new exercise1.set_HashTable(8);
+        exercise1.set_LinkedList setLinkedList=new exercise1.set_LinkedList();
+        exercise1.set_BinaryTree setBinaryTree=new exercise1.set_BinaryTree();
         try {
             str = readFromFile("SWE-241/src/exercise1/pride-and-prejudice.txt").trim();
             str2= readFromFile("SWE-241/src/exercise1/words-shuffled.txt").trim();
